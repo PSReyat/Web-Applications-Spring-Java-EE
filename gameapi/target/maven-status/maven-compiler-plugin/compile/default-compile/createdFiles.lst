@@ -1,0 +1,9 @@
+com\shonamitambo\service\GameService.class
+com\shonamitambo\controller\GameController.class
+com\shonamitambo\dao\GameDAOImpl.class
+com\shonamitambo\dao\GameDAO.class
+com\shonamitambo\config\GameAppConfig.class
+com\shonamitambo\config\GameWebConfig.class
+com\shonamitambo\model\Game.class
+com\shonamitambo\config\MyWebAppInitialiser.class
+com\shonamitambo\service\GameServiceImpl.class
