@@ -1,0 +1,1 @@
+<% response.sendRedirect("LibraryController?action=LIST"); %>
