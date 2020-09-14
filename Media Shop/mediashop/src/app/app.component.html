@@ -1,0 +1,21 @@
+<nb-layout>
+
+  <nb-layout-header>
+    <h2 id = "header">{{title}}</h2>
+  </nb-layout-header>
+
+  <nb-layout-column id = "nb-layout">
+
+    <table id = "navigate">
+      <tbody>
+        <tr>
+          <a routerLink="/" class="btn btn-outline-info">Shopping</a>
+          <a routerLink="/checkout" class="btn btn-outline-info">Checkout</a>
+        </tr>
+      </tbody>
+    </table>
+
+    <router-outlet></router-outlet>
+  </nb-layout-column>
+  
+</nb-layout>
