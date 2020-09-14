@@ -8,3 +8,5 @@ Eclipse IDE,
 JSTL library,
 MySQL,
 Hibernate for Spring
+Angular
+NodeJS
